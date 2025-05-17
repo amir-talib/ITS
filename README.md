@@ -44,3 +44,8 @@ For a production website, you would need to replace the placeholder images with 
 ## License
 
 © 2025 ITS OCEAN & OIL Ltd. All rights reserved.
+
+## Contact
+
+For inquiries about this website, please contact:
+Amir Talib - amirtalib24@yahoo.com
